@@ -1,3 +1,26 @@
+<div align="center">
+
+# Jeffrey Hamlin Vinod 🃏
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Graduate+Software+Engineer;Full-Stack+%26+Backend+Developer;Night+Owl+%7C+Builder+%7C+Problem+Solver;Jack+of+all+trades%2C+master+of+none..." alt="Typing SVG" />
+
+<br/>
+
+*"Jack of all trades, master of none — oftentimes better than the master of one."*
+
+</div>
+
+---
+
+### 👤 About Me
+
+⚡    Ran fast enough to set a national record, now I just run deployments
+🃏    Collects playing cards, builds full-stack apps, solves problems
+💙❤️  FC Barcelona · Culer · Més que un club
+✈️    Chennai → Dublin · Still exploring
+🎓    MSc Computer Science (Data Science) - Trinity College Dublin
+🌙    Night owl who builds things while the world sleeps
+
 ---
 
 ### 🛠 Tech Stack
@@ -63,5 +86,5 @@
 ---
 
 <div align="center">
-<sub>🦊 Built in the dark, shipped before dawn 🃏</sub>
+<sub>🃏 Built in the dark, shipped before dawn ⚡</sub>
 </div>
