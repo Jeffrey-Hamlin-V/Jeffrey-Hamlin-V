@@ -6,7 +6,7 @@
 
 <br/>
 
-*"Jack of all trades, master of none — oftentimes better than the master of one."*
+*"Jack of all trades, master of none - oftentimes better than the master of one."*
 
 </div>
 
@@ -19,7 +19,7 @@
 🦊  Sharp mind, sharper code
 💙❤️  Bleed Blaugrana · FC Barcelona · Culer · Més que un club
 ✈️  Chennai → Dublin · Still exploring
-🎓  MSc Computer Science (Data Science) — Trinity College Dublin
+🎓  MSc Computer Science (Data Science) - Trinity College Dublin
 🌙  Night owl who builds things while the world sleeps
 
 ---
