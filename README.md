@@ -1,37 +1,67 @@
-# Hi, I'm Jeffrey Hamlin Vinod 👋
+---
 
-Graduate Software Engineer | MSc Computer Science (Data Science), Trinity College Dublin
+### 🛠 Tech Stack
 
-I build full-stack applications, REST APIs and data pipelines that solve real problems.
-Currently seeking entry-level Software Engineering roles in Dublin.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 ---
 
-## 🛠 Tech Stack
+### 🚀 Featured Projects
 
-**Languages:** Python · TypeScript · JavaScript · SQL · HTML · CSS
-
-**Backend:** Node.js · Express.js · REST APIs · JWT · PostgreSQL · SQLite · Supabase
-
-**Frontend:** Next.js 14 · React · D3.js · Bootstrap
-
-**ML & Data:** TensorFlow Lite · scikit-learn · Power BI · Pandas
-
-**Tools:** Git · GitHub · Vercel · Railway · Cloudinary · Linux
+| 🃏 Project | 📌 Description | ⚙️ Stack |
+|-----------|---------------|---------|
+| [CharityLink](https://golf-charity-platform-56gs.vercel.app/) | Golf charity subscription platform with Stripe payments, live draw engine and jackpot logic | Next.js · TypeScript · Supabase · Stripe |
+| [TableSync](https://github.com/Jeffrey-Hamlin-V/TableSync) | Real-time collaborative dining and bill-splitting platform with QR session sharing | Node.js · PostgreSQL · WebSockets |
+| [EAFC26 Dashboard](https://jeffrey-hamlin-v.github.io/vinodauj-DataVisualization_Dashboard-EAFC26/) | Interactive analytics dashboard for 17,000+ player records | Python · D3.js · EDA |
+| [Ananda Stores](https://github.com/Jeffrey-Hamlin-V/Ananda-Stores) | Live B2B e-commerce platform with bilingual catalogue and role-based admin dashboard | Node.js · Express · PostgreSQL |
 
 ---
 
-## 🚀 Featured Projects
+### 📊 GitHub Activity
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [CharityLink](https://golf-charity-platform-56gs.vercel.app/) | Golf charity subscription platform with Stripe payments and live draw engine | Next.js · TypeScript · Supabase · Stripe |
-| [TableSync](https://github.com/Jeffrey-Hamlin-V/TableSync) | Real-time collaborative dining and bill-splitting platform | Node.js · PostgreSQL · WebSockets |
-| [Ananda Stores](https://github.com/Jeffrey-Hamlin-V/Ananda-Stores) | B2B e-commerce platform with bilingual catalogue and admin dashboard | Node.js · Express · PostgreSQL |
+<div align="center">
+
+![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffrey-Hamlin-V&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffrey-Hamlin-V&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa)
+
+</div>
 
 ---
 
-## 📫 Connect
+### 🐍 Contribution Snake
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jeffrey-hamlin-v)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://jeffreyvhamlin.github.io/Portfolio/)
+<div align="center">
+
+![snake gif](https://github.com/Jeffrey-Hamlin-V/Jeffrey-Hamlin-V/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-hamlin-v)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://jeffreyvhamlin.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeffreyvhamlin@gmail.com)
+
+---
+
+<div align="center">
+<sub>🦊 Built in the dark, shipped before dawn 🃏</sub>
+</div>
